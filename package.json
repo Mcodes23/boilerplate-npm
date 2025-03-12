@@ -1,6 +1,6 @@
 {
-	"author": "Mateli Boniface",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Mateli Boniface",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
